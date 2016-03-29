@@ -1,9 +1,6 @@
 I run it in IntelliJ IDEA
 
-0) Open $CATALINA_HOME/conf/web.xml
-Uncomment servlet containing "org.apache.catalina.servlets.CGIServlet"
-
-1) Chech that you Linux can execute
+1) Chech that your Linux can execute
 web/WEB-INF/cgi/hi-perl.cgi
 if no, type
 chmod +x web/WEB-INF/cgi/hi-perl.cgi
