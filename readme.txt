@@ -1,6 +1,6 @@
 I run it in IntelliJ IDEA
 
-1) Chech that your Linux can execute
+1) Check that your Linux can execute
 web/WEB-INF/cgi/hi-perl.cgi
 if no, type
 chmod +x web/WEB-INF/cgi/hi-perl.cgi
